@@ -1,3 +1,3 @@
 # TRIAL 1
 
-Official trial of how GitHub works.
+Official trial of GitHub and learning how it works!
